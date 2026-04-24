@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Varun. 
 
-<!--
-**VarunDass/VarunDass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Systems Engineering student and Open Source C++ Developer. 
 
-Here are some ideas to get you started:
+**Note: The majority of my open-source production code is hosted on KDE's GitLab infrastructure.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Production Open Source Work (KDE Community)
+* **Season of KDE 2026 Graduate**
+* **Lokalize (C++/Qt):** Engineered reactive consistency-proofing logic for translation memory. [View Merge Request !286](https://invent.kde.org/sdk/lokalize/-/merge_requests/286) | [View Merge Request !287](https://invent.kde.org/sdk/lokalize/-/merge_requests/287)
+* **Solid Framework:** Patched private constructor access violations causing critical macOS build failures. [View Merge Request !238](https://invent.kde.org/frameworks/solid/-/merge_requests/238)
+* **Official Status Report:** [KDE Community Wiki](https://community.kde.org/SoK/2026/StatusReport/Varun_Sajith_Dass)
+
+### Research & Data Pipelines
+* **Bioinformatics Intern @ NCBS-TIFR:** Architected a custom Python/JSON recursive pipeline to parse and process 1M+ genomic sequences, automating curation workflows.
